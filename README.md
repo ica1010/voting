@@ -235,7 +235,12 @@ Accédez ensuite à l'application via votre navigateur à l'adresse :
 |-----------------|------------------|-----------|
 | ![Votes](https://user-images.githubusercontent.com/19981097/51409728-d423d400-1b8c-11e9-8903-4c08ba64512e.png) | ![Add](https://user-images.githubusercontent.com/19981097/51409796-fe759180-1b8c-11e9-941b-c1202956cca4.png) | ![Results](https://user-images.githubusercontent.com/19981097/51409932-60ce9200-1b8d-11e9-9c83-c59ba498ca8b.png) |
 
-## 8. Conclusion
+## 8. menbres du groupe
+APETOGBO
+LABITEY Stéphane
+AMETONOU Kossi Ghislin
+
+## 9. Conclusion
 
 Cette documentation offre une vue complète des fonctionnalités de l'application Django Vote App, depuis l'installation et la configuration jusqu'à la gestion avancée des votes, l'intégration de services tiers et les cas d'utilisation typiques. Elle permet aux utilisateurs et aux développeurs de comprendre et de déployer l'application rapidement, tout en s'appuyant sur des captures d'écran pour visualiser chaque étape du processus.
 
